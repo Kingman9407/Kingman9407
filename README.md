@@ -1,6 +1,6 @@
 # Hi, I'm Aseem Ahamed 👋
 
-🎓 B.Tech CSBS @ SMVEC
+
 ⚡ Edge AI Developer | AI Engineer | Flutter Developer
 
 Building AI applications that run efficiently on-device, in the browser, and at the edge.
