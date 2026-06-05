@@ -1,6 +1,5 @@
 # Hi, I'm Aseem Ahamed 👋
 
-
 ⚡ Edge AI Developer | AI Engineer | Flutter Developer
 
 Building AI applications that run efficiently on-device, in the browser, and at the edge.
@@ -10,6 +9,12 @@ Building AI applications that run efficiently on-device, in the browser, and at 
 * 🎬 **AI Video Editor** — Browser-based video editing powered by Edge AI
 * ⚡ **LiteEdgeAI** — Edge AI benchmarking platform for evaluating model latency, memory usage, and real-world browser performance
 * 💳 **Billit** — Smart billing and sales forecasting platform
+
+### 🤖 AI Research & Models
+
+* 🐝 **Hornet** — Custom-trained Hugging Face model focused on AI-powered edge video editing workflows, optimized for efficient inference and deployment on resource-constrained devices.
+
+  🔗 Model: https://huggingface.co/Kingman9407/hornet
 
 ### 🛠 Tech Stack
 
@@ -28,8 +33,7 @@ Building AI applications that run efficiently on-device, in the browser, and at 
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aseem_Ahamed-blue?logo=linkedin)](https://www.linkedin.com/in/aseem-ahamed-49712b338/)
+* 🔗 LinkedIn: [Aseem Ahamed](https://www.linkedin.com/in/aseem-ahamed-49712b338/)
+* 📧 Email: [aseemnajeer@gmail.com](mailto:aseemnajeer@gmail.com)
 
-[![Email](https://img.shields.io/badge/Email-aseemnajeer%40gmail.com-red?logo=gmail&logoColor=white)](mailto:aseemnajeer@gmail.com)
-
-> Specializing in Edge AI, browser AI, and on-device machine learning.
+> Specializing in Edge AI, Browser AI, On-Device Machine Learning, ONNX Optimization, and Efficient AI Inference.
