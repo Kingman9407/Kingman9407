@@ -28,7 +28,8 @@ Building AI applications that run efficiently on-device, in the browser, and at 
 
 ### 📫 Connect
 
-* LinkedIn: linkedin.com/in/aseem-ahamed-49712b338
-* Email: [aseemnajeer@gmail.com](mailto:aseemnajeer@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aseem_Ahamed-blue?logo=linkedin)](https://www.linkedin.com/in/aseem-ahamed-49712b338/)
+
+[![Email](https://img.shields.io/badge/Email-aseemnajeer%40gmail.com-red?logo=gmail&logoColor=white)](mailto:aseemnajeer@gmail.com)
 
 > Specializing in Edge AI, browser AI, and on-device machine learning.
