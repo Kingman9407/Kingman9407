@@ -33,7 +33,11 @@ Building AI applications that run efficiently on-device, in the browser, and at 
 
 ### 📫 Connect
 
-* 🔗 LinkedIn: [Aseem Ahamed](https://www.linkedin.com/in/aseem-ahamed-49712b338/)
-* 📧 Email: [aseemnajeer@gmail.com](mailto:aseemnajeer@gmail.com)
+### 📫 Connect
+
+* 🌐 Portfolio: https://aseemahamed.vercel.app/
+* 🔗 LinkedIn: https://www.linkedin.com/in/aseem-ahamed-49712b338/
+* 🤗 Hugging Face: https://huggingface.co/Kingman9407
+* 📧 Email: aseemnajeer@gmail.com
 
 > Specializing in Edge AI, Browser AI, On-Device Machine Learning, ONNX Optimization, and Efficient AI Inference.
